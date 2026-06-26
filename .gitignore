@@ -2,6 +2,7 @@ node_modules/
 data/
 results/
 *.h5
+!backend/best_mobilenetv2_gaussian.h5
 *.pt
 *.pth
 .ipynb_checkpoints/
